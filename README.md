@@ -1,4 +1,4 @@
-# ML_den
+# ML_Adda
 This is just a repo containing some important codes .. theories .. and algos of different machine learning techniques .
 
 ## Confusion Matrix : (not so confusing :)
