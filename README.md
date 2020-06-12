@@ -12,3 +12,8 @@ https://scikit-learn.org/0.21/auto_examples/model_selection/plot_confusion_matri
 '''
 https://community.alteryx.com/t5/Data-Science-Blog/Why-use-SVM/ba-p/138440
 '''
+
+## LSTM Recurrent Nueral Networks:
+'''
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+'''
